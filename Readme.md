@@ -64,5 +64,5 @@ npm run dev
 </p>
 
 <p align="center">
-  ...
+  MIT LICENSE | <a href="https://github.com/halitsever">Halit Sever</a>
 </p>
