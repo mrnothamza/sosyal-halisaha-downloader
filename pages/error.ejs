@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Match Video Downloader | Download Your Videos</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body class="bg-gray-100 flex items-center justify-center min-h-screen">
+    <div class="bg-white shadow-xl rounded-2xl p-8 max-w-md w-full">
+      <div class="flex justify-center mb-6">
+        <img src="https://assets.halit.org/api/public/dl/utDmAequ/halisaha.png" alt="Logo" class="w-32 h-auto" />
+      </div>
+
+      <div class="text-center">
+        <h1 class="text-2xl font-bold text-red-600">Error Occurred</h1>
+        <p class="text-gray-600 mt-1">Please check the URL and try again.</p>
+        <p class="text-xl p-4">Error details:</p>
+        <a><%= error %></a>
+      </div>
+    </div>
+  </body>
+</html>

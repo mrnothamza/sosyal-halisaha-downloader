@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Match Video Downloader | Download Your Videos</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body class="bg-gray-100 flex items-center justify-center min-h-screen">
+    <div class="bg-white shadow-lg rounded-2xl p-8 max-w-xl w-full space-y-6">
+      <div class="text-center">
+        <h1 class="text-2xl font-bold">Video Scraped 🎉</h1>
+        <p class="text-gray-600 mt-1">You can preview and download the video from below</p>
+      </div>
+
+      <iframe src="<%= data?.video?.videoUrl %>" title="Football match video" class="w-full h-64 rounded-xl border" allowfullscreen></iframe>
+
+      <div class="video-info flex flex-col">
+        <span>
+          <a>Title: <%=data?.video?.title %></a>
+        </span>
+
+        <span>
+          <a>Uploader: <%=data?.video?.videoOwner %></a>
+        </span>
+      </div>
+      <div class="text-center">
+        <a href="#" id="downloadButton" class="bg-blue-600 text-white px-6 py-2 rounded-xl hover:bg-blue-700 transition"> Download </a>
+      </div>
+    </div>
+  </body>
+  <script>
+    document.getElementById("downloadButton").addEventListener("click", () => {
+      const a = document.createElement("a");
+      a.href = "<%= data.video.videoUrl %>";
+      a.download = "match-record.mp4";
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+    });
+  </script>
+</html>

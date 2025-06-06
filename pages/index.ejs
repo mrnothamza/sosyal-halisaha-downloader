@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Match Video Downloader | Download Your Videos</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body class="bg-gray-100 flex items-center justify-center min-h-screen">
+    <div class="bg-white shadow-xl rounded-2xl p-8 max-w-md w-full">
+      <div class="flex justify-center mb-6">
+        <img src="https://assets.halit.org/api/public/dl/utDmAequ/halisaha.png" alt="Logo" class="w-32 h-auto" />
+      </div>
+      <form action="/download" method="POST" class="space-y-4">
+        <label for="videoUrl" class="block text-sm font-medium text-gray-700">Video URL:</label>
+        <input
+          type="url"
+          name="videoUrl"
+          id="videoUrl"
+          placeholder="https://..."
+          required
+          class="w-full px-4 py-2 border border-gray-300 rounded-xl focus:outline-none focus:ring-2 focus:ring-blue-500"
+        />
+        <button type="submit" class="w-full bg-blue-600 text-white py-2 rounded-xl hover:bg-blue-700 transition">Download Video</button>
+      </form>
+      <footer class="text-center text-sm text-gray-500 mt-6">
+        This tool is developed solely for personal and educational purposes. No commercial use is intended.
+        <br />
+        Downloading videos is subject to the terms of use of the respective website. Please respect the rights of content owners.
+      </footer>
+    </div>
+  </body>
+</html>
