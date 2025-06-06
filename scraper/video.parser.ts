@@ -5,6 +5,12 @@ class VideoParser {
     private readonly videoRegex = /const\s+videoSrc\s*=\s*(\[.*?\]);/;
     private readonly clearRegex = /([{,]\s*)(\w+)\s*:/g;
 
+    /**
+     * Parses the HTML to extract video information.
+     * @param html - The HTML content of the video page.
+     * @returns {IVideoResponse} - An object containing the video data or an error message.
+     * @protected 
+     */
     protected parseVideoPage(html: string): IVideoResponse {
         const { document } = new JSDOM(html).window;
         const scriptContent = document.querySelector(".video-player Script")?.innerHTML;
