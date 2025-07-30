@@ -1,5 +1,5 @@
 <p align="center" class="logo-section">
-<img src="https://assets.halit.org/api/public/dl/utDmAequ/halisaha.png" height="80" width="80"/>
+<img src="https://assets.halit.org/api/public/dl/-09U0mC7?inline=true" height="80" width="80"/>
 </br>
 
 <img src="https://halitsever-api.vercel.app/api/repo-title?title=Halisaha+Downloader">
@@ -28,11 +28,11 @@
 - 🧑‍💻 [**Download match videos**](#) - Scrape match videos from Halisaha.co and alternatives
 
 <p align="center">
-  <img src="https://assets.halit.org/api/public/dl/JPnFjhC-/Screenshot%202025-06-06%20at%2004.37.18.png"/>
+  <img src="https://assets.halit.org/api/public/dl/ymUJAb9O?inline=true"/>
 </p>
 
 <p align="center">
-  <img src="https://assets.halit.org/api/public/dl/8y5ItreW/Screenshot%202025-06-06%20at%2004.37.59.png"/>
+  <img src="https://assets.halit.org/api/public/dl/0ShCfddH?inline=true"/>
 </p>
 
 <p align="center" >
