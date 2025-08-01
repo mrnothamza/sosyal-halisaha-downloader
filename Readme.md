@@ -5,7 +5,7 @@
 <img src="https://halitsever-api.vercel.app/api/repo-title?title=Halisaha+Downloader">
 
 <p align="center">
-⚽ Application for downloading football match records from Halisaha.co<br>
+⚽ Application for downloading football match records from sosyalhalisaha.com<br>
 
 <br/>
 <br/>
@@ -25,7 +25,7 @@
 <img src="https://halitsever-api.vercel.app/api/details"/>
 </p>
 
-- 🧑‍💻 [**Download match videos**](#) - Scrape match videos from Halisaha.co and alternatives
+- 🧑‍💻 [**Download match videos**](#) - Scrape match videos from sosyalhalisaha.com
 
 <p align="center">
   <img src="https://assets.halit.org/api/public/dl/ymUJAb9O?inline=true"/>
