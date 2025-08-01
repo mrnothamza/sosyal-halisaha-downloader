@@ -2,7 +2,7 @@
 <img src="https://assets.halit.org/api/public/dl/-09U0mC7?inline=true" height="80" width="80"/>
 </br>
 
-<img src="https://halitsever-api.vercel.app/api/repo-title?title=Halisaha+Downloader">
+<img src="https://halitsever-api.vercel.app/api/repo-title?title=Sosyal+Halisaha+Downloader">
 
 <p align="center">
 ⚽ Application for downloading football match records from sosyalhalisaha.com<br>
